@@ -1,4 +1,3 @@
-// CoinContextProvider.jsx
 import { useEffect, useState, useCallback } from "react";
 import { CoinContext } from "./CoinContext";
 
